@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">neoastra</string>
+    <string name="launch_app_settings">Launch App Settings</string>
+    <string name="permission_is_required_to_perform_this_action"> %1$s is required to perform this action</string>
+    <string name="permission_required">Permission Required</string>
+
+</resources>
